@@ -1,0 +1,93 @@
+[
+    {
+      "id": 1,
+      "info": "Full Name",
+      "description": "Shagufa Anjum"
+    },
+    {
+      "id": 2,
+      "info": "Location",
+      "description": "Moradabad, Uttar Pradesh, India"
+    },
+    {
+      "id": 3,
+      "info": "Current Education",
+      "description": "Pursuing B.Tech in Computer Science and Engineering from VIT Bhopal University (2021–2025) with a current CGPA of 8.6"
+    },
+    {
+      "id": 4,
+      "info": "Previous Education",
+      "description": "10th: 87% from CBSE Board (2019), 12th: 90.2% from CBSE Board (2021) with Science (PCM)"
+    },
+    {
+      "id": 5,
+      "info": "Technical Skills",
+      "description": "Frontend: React.js, Next.js, JavaScript, HTML, CSS, Tailwind CSS | Backend: Node.js, Express.js | Databases: MongoDB, MySQL | Tools: Git, Prisma, Firebase, REST APIs"
+    },
+    {
+      "id": 6,
+      "info": "Projects",
+      "description": "• AI Trip Planner (React.js, Gemini AI, Firebase) | • Welth – AI Finance Manager (Next.js, Prisma) | • Quixxo – Travel Guide (MERN Stack)"
+    },
+    {
+      "id": 7,
+      "info": "Internships",
+      "description": "Full Stack Website Development at Internship Studio (Jul–Nov 2024), worked on e-commerce website using React, REST APIs, Bootstrap"
+    },
+    {
+      "id": 8,
+      "info": "Certifications",
+      "description": "Cloud Digital Leader (Google), Canva Design, Cyber Security, Computer Vision, Mobile Game Dev (Vityarthi), Cloud Computing (NPTEL), DSA (Apna College), Networking (Coursera)"
+    },
+    {
+      "id": 9,
+      "info": "Strengths",
+      "description": "Quick learner, Problem solver, Strong communication, Passionate about building real-world projects, Team player"
+    },
+    {
+      "id": 10,
+      "info": "Weaknesses",
+      "description": "I used to hesitate in public speaking, but now I'm improving by actively participating in team discussions and events."
+    },
+    {
+      "id": 11,
+      "info": "Hobbies",
+      "description": "Coding, UI designing, Traveling, Writing, Participating in tech events, Blogging"
+    },
+    {
+      "id": 12,
+      "info": "Languages Known",
+      "description": "English, Hindi, Urdu"
+    },
+    {
+      "id": 13,
+      "info": "Clubs & Activities",
+      "description": "Core member & Event Head at Bit by Bit – Coding Block Club, VIT Bhopal"
+    },
+    {
+      "id": 14,
+      "info": "Achievements",
+      "description": "5⭐ HackerRank in Java, Completed multiple internships, Completed 80+ lessons in full-stack development internship"
+    },
+    {
+      "id": 15,
+      "info": "Short-Term Goals (1–2 Years)",
+      "description": "Crack a full-time opportunity as a Full Stack Developer, contribute to open-source, and improve backend system design skills"
+    },
+    {
+      "id": 16,
+      "info": "Long-Term Goals (5 Years)",
+      "description": "Become a lead full stack engineer or tech architect, launch my own product/startup, and mentor juniors in tech"
+    },
+    {
+      "id": 17,
+      "info": "Portfolio & GitHub",
+      "description": "Portfolio: https://ai-trip-planner-smoky.vercel.app | GitHub: https://github.com/shagufa-anjum1"
+    },
+    {
+      "id": 18,
+      "info": "Contact",
+      "description": "Email: shagufaanjumvit@gmail.com | Phone: +91-8439246507 / 8449813808"
+    }
+  ]
+  
