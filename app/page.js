@@ -44,12 +44,12 @@ export default function Home() {
                   </div>
                 );
               })}
-
+                // Display the last message with a different style
               {isLoading && <span className="ml-auto">Thinking... 🤔</span>}
             </>
           )}
         </section>
-
+          // Input form for user to ask questions
         <form
           className="w-full flex gap-2"
           onSubmit={(e) => {
