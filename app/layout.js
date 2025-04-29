@@ -10,6 +10,9 @@ const geistMono = Geist_Mono({
   variable: "--font-geist-mono",
   subsets: ["latin"],
 });
+// This is a custom font from the Geist design system
+// https://geist-ui.dev/docs/typography
+
 
 export const metadata = {
   title: "Create Next App",

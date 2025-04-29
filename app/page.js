@@ -13,6 +13,7 @@ export default function Home() {
 
   return (
     <main>
+     // Background image for the portfolio
       <Image
         layout="fill"
         src="/Image-Portfolio.png"
@@ -28,7 +29,8 @@ export default function Home() {
           {noMessages ? (
             <p className="text-center text-3xl text-white font-extrabold">Ask me Anything</p>
           ) : (
-            <>
+            <> 
+            // Display all messages in the chat
               {messages.map((message, index) => {
                 return (
                   <div
@@ -64,6 +66,7 @@ export default function Home() {
             placeholder="What's your hometown?"
             className="py-3 px-5 flex-1 rounded text-white text-2xl border-2 border-gray-50 focus:outline-none focus:border-purple-500"
           />
+          // Submit button
           <button
             type="submit"
             className="bg-purple-700 hover:bg-purple-800 text-white rounded text-xl  px-5 cursor-pointer focus:outline-none disabled:bg-purple-600"
